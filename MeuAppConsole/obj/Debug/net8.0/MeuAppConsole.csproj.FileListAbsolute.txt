@@ -1,0 +1,14 @@
+C:\Users\ander\OneDrive\Documentos\DIO\dio-desafio-testesIntegrados-dotnet-calculadora\MeuAppConsole\bin\Debug\net8.0\MeuAppConsole.exe
+C:\Users\ander\OneDrive\Documentos\DIO\dio-desafio-testesIntegrados-dotnet-calculadora\MeuAppConsole\bin\Debug\net8.0\MeuAppConsole.deps.json
+C:\Users\ander\OneDrive\Documentos\DIO\dio-desafio-testesIntegrados-dotnet-calculadora\MeuAppConsole\bin\Debug\net8.0\MeuAppConsole.runtimeconfig.json
+C:\Users\ander\OneDrive\Documentos\DIO\dio-desafio-testesIntegrados-dotnet-calculadora\MeuAppConsole\bin\Debug\net8.0\MeuAppConsole.dll
+C:\Users\ander\OneDrive\Documentos\DIO\dio-desafio-testesIntegrados-dotnet-calculadora\MeuAppConsole\bin\Debug\net8.0\MeuAppConsole.pdb
+C:\Users\ander\OneDrive\Documentos\DIO\dio-desafio-testesIntegrados-dotnet-calculadora\MeuAppConsole\obj\Debug\net8.0\MeuAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\OneDrive\Documentos\DIO\dio-desafio-testesIntegrados-dotnet-calculadora\MeuAppConsole\obj\Debug\net8.0\MeuAppConsole.AssemblyInfoInputs.cache
+C:\Users\ander\OneDrive\Documentos\DIO\dio-desafio-testesIntegrados-dotnet-calculadora\MeuAppConsole\obj\Debug\net8.0\MeuAppConsole.AssemblyInfo.cs
+C:\Users\ander\OneDrive\Documentos\DIO\dio-desafio-testesIntegrados-dotnet-calculadora\MeuAppConsole\obj\Debug\net8.0\MeuAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Documentos\DIO\dio-desafio-testesIntegrados-dotnet-calculadora\MeuAppConsole\obj\Debug\net8.0\MeuAppConsole.dll
+C:\Users\ander\OneDrive\Documentos\DIO\dio-desafio-testesIntegrados-dotnet-calculadora\MeuAppConsole\obj\Debug\net8.0\refint\MeuAppConsole.dll
+C:\Users\ander\OneDrive\Documentos\DIO\dio-desafio-testesIntegrados-dotnet-calculadora\MeuAppConsole\obj\Debug\net8.0\MeuAppConsole.pdb
+C:\Users\ander\OneDrive\Documentos\DIO\dio-desafio-testesIntegrados-dotnet-calculadora\MeuAppConsole\obj\Debug\net8.0\MeuAppConsole.genruntimeconfig.cache
+C:\Users\ander\OneDrive\Documentos\DIO\dio-desafio-testesIntegrados-dotnet-calculadora\MeuAppConsole\obj\Debug\net8.0\ref\MeuAppConsole.dll
